@@ -1,16 +1,15 @@
-## Hi there 👋
+![banner](./assets/7BFM-Profile-Banner.png)
+<div align="center">
+<h1><b>Hello!</b></h1>
+</div>
+Hello, I'm a for-hire Roblox game developer. I do everything from game logic and scripting to UI/UX design.
 
-<!--
-**7bfm/7bfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on several games, as well as a few of my own projects.  
 
-Here are some ideas to get you started:
+Coding Languages I know:
+* Luau (obviously): used for roblox games, started in 2019.
+* Python: used for quick scripting, learned in 2020.
+* Java: used for developing Minecraft mods and plugins, learned in 2020 (i had a lot of free time).
+* Rust: learning it to make lightweight apps for by bad PC, picked it up in 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The fastest way to reach me is through discord: @7b.fm
